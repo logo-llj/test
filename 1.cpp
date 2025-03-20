@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
-
+// test
 // 定义单词种别码
 #define BEGIN 1
 #define IF 2
